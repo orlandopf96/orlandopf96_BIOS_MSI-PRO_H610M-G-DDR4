@@ -1,4 +1,4 @@
-# **BIOS_H81M-CT**
+# **BIOS_MSI-PRO_H610M-G-DDR4**
 
 **Última actualización de BIOS para la placa base MSI-PRO_H610M-G-DDR4**
 
